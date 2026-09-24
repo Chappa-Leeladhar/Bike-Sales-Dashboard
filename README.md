@@ -8,8 +8,13 @@ An end-to-end Excel data analysis project which involves data cleaning, standard
 ---
 ## Key Insights
 * **Income**: The data indicates that the person with the higher income correlated with the purchase of a bike in both male and female demographics.
+* **Recommendation**: Prioritize income-based targeting over broad demographic ads.
+* 
 * **Age Brackets**: The data indicates that Middle Aged(31-55) group purchased more bikes than any other age group.
+* **Recommendation**: Prioritize income-based targeting over broad demographic ads.
+* 
 * **Commute Distance**: The data indicates that higher the commute distance of a person the less likely he/she is likely to purchase a bike.
+* 
 
 ---
 ## Data Cleaning & Processing Steps
