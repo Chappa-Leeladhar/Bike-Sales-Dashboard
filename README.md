@@ -6,6 +6,13 @@ An end-to-end Excel data analysis project which involves data cleaning, standard
 <img width="648" height="420" alt="Screenshot_20260807_122619" src="https://github.com/user-attachments/assets/33507f2c-00ba-41f5-a973-52e9d74ca657" />
 
 ---
+## Business Problem
+The company wants to increase bike sales but is spending marketing budget on broad, 
+untargeted campaigns. This project analyzes customer purchase data to identify which 
+customer segments are most likely to buy — so marketing spend can be focused where it 
+converts best.
+
+---
 ## Key Insights
 * **Income**: The data indicates that the person with the higher income correlated with the purchase of a bike in both male and female demographics.
 * **Recommendation**: Prioritize income-based targeting over broad demographic ads.
